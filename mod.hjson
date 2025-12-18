@@ -1,4 +1,4 @@
-name: "cd-head-survival-mod"
+name: "z-cd-head-survival-mod"
 displayName: "Mute Unit Loops"
 author: "coal deficit"
 description: "A JS mod that mutes all loopSounds and moveSounds on units, for those who get a headache from them."
