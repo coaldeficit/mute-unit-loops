@@ -4,5 +4,6 @@ Events.on(ClientLoadEvent, e => {
     if (help instanceof MissileUnitType) continue // not fool-proof but the best i can do in just a few minutes
     help.loopSound = Sounds.none
     help.moveSound = Sounds.none
+    help.tankMoveSound = Sounds.none
   }
 })
